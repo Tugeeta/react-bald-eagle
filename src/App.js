@@ -44,7 +44,6 @@ const todoList = [
     
   </div>
   );
-    }
-  
+    }  
 
 export default App;
